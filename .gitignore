@@ -1,0 +1,14 @@
+client_secret.json
+insert_log.log
+dailyetl_bash.log
+data.csv
+my-ssh-config
+not_find_log.log
+token.txt
+token.json
+azure-sql.ipynb
+.env
+not_find_log.log
+venv/
+Websitedatabase/
+*.json
